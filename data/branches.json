@@ -1,0 +1,1523 @@
+[
+    {
+        "region": "Central Southern",
+        "branch": "Aylesbury Vale & Wycombe",
+        "wesbite": "https://avw.camra.org.uk/",
+        "branch_id": "aylesbury-vale-wycombe",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "Berkshire South East",
+        "wesbite": "https://seberks.camra.org.uk",
+        "branch_id": "berkshire-south-east",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "Mid Chilterns",
+        "wesbite": "https://midchilternscamra.org.uk",
+        "branch_id": "mid-chilterns",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "Milton Keynes & N Bucks",
+        "wesbite": "https://mk.camra.org.uk/",
+        "branch_id": "milton-keynes-n-bucks",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "North Oxfordshire",
+        "wesbite": "https://northoxon.camra.org.uk/",
+        "branch_id": "north-oxfordshire",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "Oxford",
+        "wesbite": "https://oxford.camra.org.uk",
+        "branch_id": "oxford",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "Reading & Mid-Berks",
+        "wesbite": "https://reading.camra.org.uk/",
+        "branch_id": "reading-midberks",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "Slough, Windsor & Maidenhead",
+        "wesbite": "https://swm.camra.org.uk",
+        "branch_id": "slough-windsor-maidenhead",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "South Oxfordshire",
+        "wesbite": "https://soxon.camra.org.uk/",
+        "branch_id": "south-oxfordshire",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "West Berkshire",
+        "wesbite": "https://westberkscamra.org.uk/",
+        "branch_id": "west-berkshire",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "Central Southern",
+        "branch": "White Horse",
+        "wesbite": "https://whitehorse.camra.org.uk",
+        "branch_id": "white-horse",
+        "region_id": "central-southern"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Cambridge",
+        "wesbite": "https://cambridge-camra.org.uk/",
+        "branch_id": "cambridge",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Chelmsford & Mid Essex",
+        "wesbite": "https://chelmsford.camra.org.uk/",
+        "branch_id": "chelmsford-mid-essex",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Colchester & North East Essex",
+        "wesbite": "https://colchestercamra.org.uk/",
+        "branch_id": "colchester-north-east-essex",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "East Bedfordshire",
+        "wesbite": "https://eastbeds.camra.org.uk/",
+        "branch_id": "east-bedfordshire",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "East Norfolk",
+        "wesbite": "https://eastnorfolk.camra.org.uk/",
+        "branch_id": "east-norfolk",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Ely & District",
+        "wesbite": "https://ely.camra.org.uk/",
+        "branch_id": "ely-district",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Herts/Essex Borders",
+        "wesbite": "https://heb-camra.org.uk",
+        "branch_id": "hertsessex-borders",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Huntingdonshire",
+        "wesbite": "https://hunts.camra.org.uk/",
+        "branch_id": "huntingdonshire",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Ipswich & East Suffolk",
+        "wesbite": "https://ipswich.camra.org.uk/",
+        "branch_id": "ipswich-east-suffolk",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Maldon & Dengie",
+        "wesbite": "https://maldonanddengiecamra.org.uk",
+        "branch_id": "maldon-dengie",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Mid Anglia",
+        "wesbite": "https://midanglia.camra.org.uk/",
+        "branch_id": "mid-anglia",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "North Bedfordshire",
+        "wesbite": "https://northbeds.camra.org.uk/",
+        "branch_id": "north-bedfordshire",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "North East Suffolk",
+        "wesbite": "https://northeastsuffolk.camra.org.uk/",
+        "branch_id": "north-east-suffolk",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "North Hertfordshire",
+        "wesbite": "https://northherts.camra.org.uk/",
+        "branch_id": "north-hertfordshire",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "North West Essex",
+        "wesbite": "https://northwestessex.camra.org.uk/",
+        "branch_id": "north-west-essex",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Norwich & District",
+        "wesbite": "https://norwich.camra.org.uk/",
+        "branch_id": "norwich-district",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Peterborough",
+        "wesbite": "https://peterborough.camra.org.uk",
+        "branch_id": "peterborough",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "South Bedfordshire",
+        "wesbite": "https://www.southbeds.camra.org.uk/",
+        "branch_id": "south-bedfordshire",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "South East Essex",
+        "wesbite": "https://see.camra.org.uk/",
+        "branch_id": "south-east-essex",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "South Hertfordshire",
+        "wesbite": "https://southherts.camra.org.uk/",
+        "branch_id": "south-hertfordshire",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "South West Essex",
+        "wesbite": "https://swessex.camra.org.uk/",
+        "branch_id": "south-west-essex",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "Tendring",
+        "wesbite": "http://tendringcamra.org.uk",
+        "branch_id": "tendring",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "West Norfolk",
+        "wesbite": "https://westnorfolk.camra.org.uk/",
+        "branch_id": "west-norfolk",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Anglia",
+        "branch": "West Suffolk & Borders",
+        "wesbite": "https://westsuffolk.camra.org.uk/",
+        "branch_id": "west-suffolk-borders",
+        "region_id": "east-anglia"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Amber Valley",
+        "wesbite": "http://ambervalleycamra.org.uk",
+        "branch_id": "amber-valley",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Ashbourne & District",
+        "wesbite": "https://ashbourne.camra.org.uk",
+        "branch_id": "ashbourne-district",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Chesterfield",
+        "wesbite": "https://chesterfield.camra.org.uk/",
+        "branch_id": "chesterfield",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Derby",
+        "wesbite": "https://derby.camra.org.uk/",
+        "branch_id": "derby",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Dronfield & District",
+        "wesbite": "https://dronfield.camra.org.uk",
+        "branch_id": "dronfield-district",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Erewash Valley",
+        "wesbite": "https://erewash.camra.org.uk/",
+        "branch_id": "erewash-valley",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Fenland",
+        "wesbite": "https://fenland.camra.org.uk/",
+        "branch_id": "fenland",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Gainsborough",
+        "wesbite": "https://gainsborough.camra.org.uk/",
+        "branch_id": "gainsborough",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Grantham",
+        "wesbite": "https://grantham.camra.org.uk/",
+        "branch_id": "grantham",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Grimsby & North East Lincs",
+        "wesbite": "https://grimsby.camra.org.uk/",
+        "branch_id": "grimsby-north-east-lincs",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Hinckley & Bosworth",
+        "wesbite": "https://hinckleyandbosworth.camra.org.uk/",
+        "branch_id": "hinckley-bosworth",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Leicester",
+        "wesbite": "https://leicester.camra.org.uk/",
+        "branch_id": "leicester",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Lincoln",
+        "wesbite": "https://lincoln.camra.org.uk",
+        "branch_id": "lincoln",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Loughborough & North Leics",
+        "wesbite": "https://loughboroughcamra.co.uk",
+        "branch_id": "loughborough-north-leics",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Louth",
+        "wesbite": "https://louth.camra.org.uk",
+        "branch_id": "louth",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Mansfield & Ashfield",
+        "wesbite": "https://mansfield.camra.org.uk/",
+        "branch_id": "mansfield-ashfield",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Matlock & Dales",
+        "wesbite": "https://mad.camra.org.uk/",
+        "branch_id": "matlock-dales",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Melton Mowbray & District",
+        "wesbite": "https://meltonmowbray.camra.org.uk/",
+        "branch_id": "melton-mowbray-district",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Newark",
+        "wesbite": "https://newarkcamra.org.uk/",
+        "branch_id": "newark",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "North Nottinghamshire",
+        "wesbite": "https://northnotts.camra.org.uk/",
+        "branch_id": "north-nottinghamshire",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Northamptonshire",
+        "wesbite": "https://northants.camra.org.uk",
+        "branch_id": "northamptonshire",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Nottingham",
+        "wesbite": "http://nottinghamcamra.org",
+        "branch_id": "nottingham",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Rutland",
+        "wesbite": "https://rutland.camra.org.uk/",
+        "branch_id": "rutland",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Scunthorpe & District",
+        "wesbite": "https://scunthorpe.camra.org.uk",
+        "branch_id": "scunthorpe-district",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "East Midlands",
+        "branch": "Vale of Belvoir",
+        "wesbite": "https://valeofbelvoir.camra.org.uk/",
+        "branch_id": "vale-of-belvoir",
+        "region_id": "east-midlands"
+    },
+    {
+        "region": "Greater London",
+        "branch": "Bromley",
+        "wesbite": "https://bromley.camra.org.uk/",
+        "branch_id": "bromley",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "Croydon & Sutton",
+        "wesbite": "https://croydon.camra.org.uk/",
+        "branch_id": "croydon-sutton",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "East London & City",
+        "wesbite": "http://www.pigsear.org.uk/",
+        "branch_id": "east-london-city",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "Enfield & Barnet",
+        "wesbite": "https://enfieldandbarnet.camra.org.uk/",
+        "branch_id": "enfield-barnet",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "North London",
+        "wesbite": "https://northlondon.camra.org.uk/",
+        "branch_id": "north-london",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "Richmond & Hounslow",
+        "wesbite": "https://rh.camra.org.uk",
+        "branch_id": "richmond-hounslow",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "South East London",
+        "wesbite": "https://sel.camra.org.uk/",
+        "branch_id": "south-east-london",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "South West London",
+        "wesbite": "https://swl.camra.org.uk/",
+        "branch_id": "south-west-london",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "Watford & District",
+        "wesbite": "https://watford.camra.org.uk",
+        "branch_id": "watford-district",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "West London",
+        "wesbite": "https://westlondon.camra.org.uk/",
+        "branch_id": "west-london",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater London",
+        "branch": "West Middlesex",
+        "wesbite": "https://westmiddx.camra.org.uk/",
+        "branch_id": "west-middlesex",
+        "region_id": "greater-london"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "Bolton",
+        "wesbite": "https://bolton.camra.org.uk",
+        "branch_id": "bolton",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "Central Manchester",
+        "wesbite": "https://centralmanchester.camra.org.uk",
+        "branch_id": "central-manchester",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "High Peak, Tameside & North East Cheshire",
+        "wesbite": "https://highpeak.camra.org.uk/",
+        "branch_id": "high-peak-tameside-north-east-cheshire",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "Rochdale, Oldham & Bury",
+        "wesbite": "https://rob.camra.org.uk/",
+        "branch_id": "rochdale-oldham-bury",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "Salford",
+        "wesbite": "https://salford.camra.org.uk/",
+        "branch_id": "salford",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "South-East Lancashire",
+        "wesbite": "https://southeastlancs.camra.org.uk/",
+        "branch_id": "southeast-lancashire",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "Stockport & South Manchester",
+        "wesbite": "https://ssm.camra.co.uk",
+        "branch_id": "stockport-south-manchester",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "Trafford & Hulme",
+        "wesbite": "https://thcamra.org.uk/",
+        "branch_id": "trafford-hulme",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Greater Manchester",
+        "branch": "Wigan",
+        "wesbite": "https://wigancamra.org.uk",
+        "branch_id": "wigan",
+        "region_id": "greater-manchester"
+    },
+    {
+        "region": "Kent",
+        "branch": "Ashford Folkestone & Romney Marsh",
+        "wesbite": "https://afrm.camra.org.uk/",
+        "branch_id": "ashford-folkestone-romney-marsh",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "Bexley",
+        "wesbite": "https://bexley.camra.org.uk/",
+        "branch_id": "bexley",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "Canterbury, Herne Bay & Whitstable",
+        "wesbite": "http://camra-canterbury.org.uk",
+        "branch_id": "canterbury-herne-bay-whitstable",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "Deal, Dover & Sandwich",
+        "wesbite": "https://dds.camra.org.uk",
+        "branch_id": "deal-dover-sandwich",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "Gravesend & Darent Valley",
+        "wesbite": "https://gdv.camra.org.uk/",
+        "branch_id": "gravesend-darent-valley",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "Maidstone & Mid Kent",
+        "wesbite": "https://mmk.camra.org.uk/",
+        "branch_id": "maidstone-mid-kent",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "Medway",
+        "wesbite": "https://medway.camra.org.uk/",
+        "branch_id": "medway",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "Swale",
+        "wesbite": "https://swale.camra.org.uk/",
+        "branch_id": "swale",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "Thanet",
+        "wesbite": "https://thanet.camra.org.uk",
+        "branch_id": "thanet",
+        "region_id": "kent"
+    },
+    {
+        "region": "Kent",
+        "branch": "West Kent",
+        "wesbite": "https://westkent.camra.org.uk",
+        "branch_id": "west-kent",
+        "region_id": "kent"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "Chester & South Clwyd",
+        "wesbite": "https://casc.camra.org.uk",
+        "branch_id": "chester-south-clwyd",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "Halton",
+        "wesbite": "https://halton.camra.org.uk/",
+        "branch_id": "halton",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "Liverpool & Districts",
+        "wesbite": "https://liverpoolcamra.org.uk",
+        "branch_id": "liverpool-districts",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "Macclesfield & East Cheshire",
+        "wesbite": "https://eastcheshire.camra.org.uk/",
+        "branch_id": "macclesfield-east-cheshire",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "North Cheshire",
+        "wesbite": "https://northcheshire.camra.org.uk/",
+        "branch_id": "north-cheshire",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "South Cheshire",
+        "wesbite": "https://southcheshire.camra.org.uk/",
+        "branch_id": "south-cheshire",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "Southport & West Lancs",
+        "wesbite": "https://southport.camra.org.uk/",
+        "branch_id": "southport-west-lancs",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "St Helens",
+        "wesbite": "https://sthelens.camra.org.uk/",
+        "branch_id": "st-helens",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "Merseyside and  Cheshire",
+        "branch": "Wirral",
+        "wesbite": "https://wirral.camra.org.uk/",
+        "branch_id": "wirral",
+        "region_id": "merseyside-and-cheshire"
+    },
+    {
+        "region": "North East England",
+        "branch": "Darlington",
+        "wesbite": "https://darlo.camra.org.uk/",
+        "branch_id": "darlington",
+        "region_id": "north-east-england"
+    },
+    {
+        "region": "North East England",
+        "branch": "Durham",
+        "wesbite": "https://camradurham.org.uk",
+        "branch_id": "durham",
+        "region_id": "north-east-england"
+    },
+    {
+        "region": "North East England",
+        "branch": "Sunderland & South Tyneside",
+        "wesbite": "https://sst.camra.org.uk/",
+        "branch_id": "sunderland-south-tyneside",
+        "region_id": "north-east-england"
+    },
+    {
+        "region": "North East England",
+        "branch": "Tyneside & Northumberland",
+        "wesbite": "https://tynland.camra.org.uk",
+        "branch_id": "tyneside-northumberland",
+        "region_id": "north-east-england"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Aberdeen, Grampian & N Isles",
+        "wesbite": "https://aberdeencamra.org.uk/",
+        "branch_id": "aberdeen-grampian-n-isles",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Ayrshire & Wigtownshire",
+        "wesbite": "https://awcamra.org.uk/",
+        "branch_id": "ayrshire-wigtownshire",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Dumfries & Stewartry",
+        "wesbite": "https://dumfries.camra.org.uk",
+        "branch_id": "dumfries-stewartry",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Edinburgh & South East Scotland",
+        "wesbite": "https://edinburghcamra.org.uk/",
+        "branch_id": "edinburgh-south-east-scotland",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Forth Valley",
+        "wesbite": "https://forthvalley.camra.org.uk/",
+        "branch_id": "forth-valley",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Glasgow & West of Scotland",
+        "wesbite": "https://glasgowcamra.org.uk",
+        "branch_id": "glasgow-west-of-scotland",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Highlands & Western Isles",
+        "wesbite": "https://highland.camra.org.uk/",
+        "branch_id": "highlands-western-isles",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Kingdom Of Fife",
+        "wesbite": "https://kingdomoffife.camra.org.uk/",
+        "branch_id": "kingdom-of-fife",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Northern Ireland",
+        "wesbite": "https://camrani.org.uk/",
+        "branch_id": "northern-ireland",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Renfrewshire",
+        "wesbite": "https://renfrewshire.camra.org.uk/",
+        "branch_id": "renfrewshire",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "Scotland & Northern Ireland",
+        "branch": "Tayside",
+        "wesbite": "https://tayside.camra.org.uk/",
+        "branch_id": "tayside",
+        "region_id": "scotland-northern-ireland"
+    },
+    {
+        "region": "South West England",
+        "branch": "Bath & Borders",
+        "wesbite": "https://bathandborders.camra.org.uk/",
+        "branch_id": "bath-borders",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Bristol & District",
+        "wesbite": "https://camrabristol.org.uk",
+        "branch_id": "bristol-district",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Cheltenham",
+        "wesbite": "https://cheltenhamcamra.org.uk/",
+        "branch_id": "cheltenham",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Cornwall",
+        "wesbite": "https://cornwall.camra.org.uk/",
+        "branch_id": "cornwall",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Devizes",
+        "wesbite": "https://devizescamra.org.uk/",
+        "branch_id": "devizes",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Exeter & East Devon",
+        "wesbite": "https://exeter.camra.org.uk/",
+        "branch_id": "exeter-east-devon",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Gloucestershire",
+        "wesbite": "https://gloucestershire.camra.org.uk/",
+        "branch_id": "gloucestershire",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "North Cotswold",
+        "wesbite": "https://northcotswoldcamra.org.uk",
+        "branch_id": "north-cotswold",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "North Devon",
+        "wesbite": "https://northdevon.camra.org.uk/",
+        "branch_id": "north-devon",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "North West Wiltshire",
+        "wesbite": "https://nwwiltscamra.org.uk",
+        "branch_id": "north-west-wiltshire",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Plymouth",
+        "wesbite": "https://plymouth.camra.org.uk/",
+        "branch_id": "plymouth",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Somerset",
+        "wesbite": "https://somerset.camra.org.uk/",
+        "branch_id": "somerset",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "South Devon",
+        "wesbite": "https://southdevon.camra.org.uk",
+        "branch_id": "south-devon",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Swindon & North Wiltshire",
+        "wesbite": "https://swindon.camra.org.uk/",
+        "branch_id": "swindon-north-wiltshire",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Tewkesbury",
+        "wesbite": "https://tewkesbury.camra.org.uk/",
+        "branch_id": "tewkesbury",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "South West England",
+        "branch": "Weston Super Mare",
+        "branch_id": "weston-super-mare",
+        "region_id": "south-west-england"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "Arun & Adur",
+        "wesbite": "https://aaa.camra.org.uk/",
+        "branch_id": "arun-adur",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "Brighton & South Downs",
+        "wesbite": "https://brighton.camra.org.uk/",
+        "branch_id": "brighton-south-downs",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "East & Mid Surrey",
+        "wesbite": "https://ems.camra.org.uk/",
+        "branch_id": "east-mid-surrey",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "Kingston & Leatherhead",
+        "wesbite": "https://kandl.camra.org.uk/",
+        "branch_id": "kingston-leatherhead",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "North East Sussex",
+        "wesbite": "https://northeastsussex.camra.org.uk/",
+        "branch_id": "north-east-sussex",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "North Surrey",
+        "wesbite": "https://northsurrey.camra.org.uk/",
+        "branch_id": "north-surrey",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "North Sussex",
+        "wesbite": "https://northsussex.camra.org.uk/",
+        "branch_id": "north-sussex",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "South East Sussex",
+        "wesbite": "https://southeastsussex.camra.org.uk/",
+        "branch_id": "south-east-sussex",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "Surrey/Hants Borders",
+        "wesbite": "https://shb.camra.org.uk/",
+        "branch_id": "surreyhants-borders",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Surrey & Sussex",
+        "branch": "Western Sussex",
+        "wesbite": "https://westernsussexcamra.org.uk/",
+        "branch_id": "western-sussex",
+        "region_id": "surrey-sussex"
+    },
+    {
+        "region": "Wales",
+        "branch": "Abercolwyn",
+        "wesbite": "https://abercolwyn.camra.org.uk/",
+        "branch_id": "abercolwyn",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Bae Ceredigion",
+        "wesbite": "https://baeceredigion.camra.org.uk/",
+        "branch_id": "bae-ceredigion",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Brecknockshire",
+        "wesbite": "https://brecknock.camra.org.uk/",
+        "branch_id": "brecknockshire",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Cardiff",
+        "wesbite": "https://cardiff.camra.org.uk/",
+        "branch_id": "cardiff",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Carmarthenshire",
+        "branch_id": "carmarthenshire",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Gwent",
+        "wesbite": "https://gwent.camra.org.uk/",
+        "branch_id": "gwent",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Gwynedd A Mon",
+        "wesbite": "https://gwyneddamon.camra.org.uk/",
+        "branch_id": "gwynedd-a-mon",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Mid Glamorgan",
+        "wesbite": "https://midglam.camra.org.uk/",
+        "branch_id": "mid-glamorgan",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Montgomeryshire",
+        "wesbite": "https://montgomeryshire.camra.org.uk/",
+        "branch_id": "montgomeryshire",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Pembrokeshire",
+        "wesbite": "https://pembrokeshire.camra.org.uk/",
+        "branch_id": "pembrokeshire",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Radnorshire",
+        "wesbite": "https://radnorshire.camra.org.uk/",
+        "branch_id": "radnorshire",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Swansea",
+        "wesbite": "https://swanseacamra.org.uk/",
+        "branch_id": "swansea",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Teifi Valley",
+        "wesbite": "https://teifivalley.camra.org.uk/",
+        "branch_id": "teifi-valley",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Vale of Clwyd",
+        "wesbite": "https://valeofclwyd.camra.org.uk/",
+        "branch_id": "vale-of-clwyd",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wales",
+        "branch": "Vale of Glamorgan and Bridgend",
+        "wesbite": "https://vog.camra.org.uk/",
+        "branch_id": "vale-of-glamorgan-and-bridgend",
+        "region_id": "wales"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "Channel Islands",
+        "wesbite": "https://channelislands.camra.org.uk",
+        "branch_id": "channel-islands",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "East Dorset",
+        "wesbite": "https://eastdorset.camra.org.uk/",
+        "branch_id": "east-dorset",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "East Hampshire",
+        "wesbite": "https://eha.camra.org.uk/",
+        "branch_id": "east-hampshire",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "Heart Of Wessex",
+        "wesbite": "https://heartofwessex.camra.org.uk",
+        "branch_id": "heart-of-wessex",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "Isle of Wight",
+        "wesbite": "https://wightwash.org.uk",
+        "branch_id": "isle-of-wight",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "North Hampshire",
+        "wesbite": "https://hantsnorth.camra.org.uk",
+        "branch_id": "north-hampshire",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "Portsmouth & South East Hampshire",
+        "wesbite": "https://pseh.camra.org.uk/",
+        "branch_id": "portsmouth-south-east-hampshire",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "Salisbury & South Wiltshire",
+        "wesbite": "https://salisburycamra.org.uk/",
+        "branch_id": "salisbury-south-wiltshire",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "Southern Hampshire",
+        "wesbite": "https://shantscamra.org.uk/",
+        "branch_id": "southern-hampshire",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "Wessex & Channel Islands",
+        "branch": "West Dorset",
+        "wesbite": "https://camrawdorset.org.uk",
+        "branch_id": "west-dorset",
+        "region_id": "wessex-channel-islands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Birmingham",
+        "wesbite": "https://birmingham.camra.org.uk/",
+        "branch_id": "birmingham",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Bridgnorth",
+        "wesbite": "https://bridgnorth.camra.org.uk/",
+        "branch_id": "bridgnorth",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Burton-on-Trent & South Derbyshire",
+        "wesbite": "https://burtoncamra.wordpress.com",
+        "branch_id": "burtonontrent-south-derbyshire",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Cannock",
+        "wesbite": "https://cannockchasecamra.wordpress.com/",
+        "branch_id": "cannock",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Coventry",
+        "wesbite": "https://coventry.camra.org.uk/",
+        "branch_id": "coventry",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Dudley & South Staffordshire",
+        "wesbite": "https://dudley.camra.org.uk/",
+        "branch_id": "dudley-south-staffordshire",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Heart of Staffordshire",
+        "wesbite": "https://hos.camra.org.uk",
+        "branch_id": "heart-of-staffordshire",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Heart of Warwickshire",
+        "wesbite": "https://camrahow.org.uk",
+        "branch_id": "heart-of-warwickshire",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Herefordshire",
+        "wesbite": "https://herefordcamra.org.uk",
+        "branch_id": "herefordshire",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Lichfield, Sutton & Tamworth",
+        "wesbite": "http://lstcamra.org.uk/",
+        "branch_id": "lichfield-sutton-tamworth",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Market Drayton",
+        "branch_id": "market-drayton",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Nuneaton & Bedworth",
+        "wesbite": "https://nuneaton.camra.org.uk/",
+        "branch_id": "nuneaton-bedworth",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Potteries",
+        "wesbite": "https://potteries.camra.org.uk/",
+        "branch_id": "potteries",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Redditch & Bromsgrove",
+        "wesbite": "https://rb.camra.org.uk/",
+        "branch_id": "redditch-bromsgrove",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Rugby",
+        "wesbite": "https://rugby.camra.org.uk/",
+        "branch_id": "rugby",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Shakespeare",
+        "wesbite": "https://shakespeare.camra.org.uk/",
+        "branch_id": "shakespeare",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Shrewsbury & West Shropshire",
+        "wesbite": "https://saws.camra.org.uk",
+        "branch_id": "shrewsbury-west-shropshire",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Solihull & District",
+        "wesbite": "https://solihull.camra.org.uk/",
+        "branch_id": "solihull-district",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Staffordshire Moorlands",
+        "branch_id": "staffordshire-moorlands",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Stourbridge and Halesowen",
+        "wesbite": "https://stourhales.camra.org.uk/",
+        "branch_id": "stourbridge-and-halesowen",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Telford & East Shropshire",
+        "wesbite": "https://tes.camra.org.uk",
+        "branch_id": "telford-east-shropshire",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Uttoxeter",
+        "wesbite": "https://uttoxetercamra.org/",
+        "branch_id": "uttoxeter",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Walsall",
+        "wesbite": "https://walsall.camra.org.uk/",
+        "branch_id": "walsall",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Wolverhampton",
+        "wesbite": "https://wolverhampton.camra.org.uk/",
+        "branch_id": "wolverhampton",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Worcester",
+        "wesbite": "https://worcester.camra.org.uk/",
+        "branch_id": "worcester",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Midlands",
+        "branch": "Wyre Forest",
+        "wesbite": "https://wyreforest.camra.org.uk/",
+        "branch_id": "wyre-forest",
+        "region_id": "west-midlands"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "Blackpool Fylde & Wyre",
+        "wesbite": "https://blackpool.camra.org.uk/",
+        "branch_id": "blackpool-fylde-wyre",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "Central Lancashire",
+        "wesbite": "https://centrallancs.camra.org.uk/",
+        "branch_id": "central-lancashire",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "East Lancashire",
+        "wesbite": "https://eastlancs.camra.org.uk/",
+        "branch_id": "east-lancashire",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "Furness",
+        "wesbite": "https://furness.camra.org.uk/",
+        "branch_id": "furness",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "Isle of Man",
+        "wesbite": "https://isleofmancamra.org",
+        "branch_id": "isle-of-man",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "Lunesdale",
+        "wesbite": "https://lunesdale.camra.org.uk/",
+        "branch_id": "lunesdale",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "Solway",
+        "wesbite": "https://solway.camra.org.uk/",
+        "branch_id": "solway",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "West Cumbria",
+        "wesbite": "https://westcumbria.camra.org.uk/",
+        "branch_id": "west-cumbria",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "West Pennines",
+        "branch": "Westmorland",
+        "wesbite": "https://westmorland.camra.org.uk/",
+        "branch_id": "westmorland",
+        "region_id": "west-pennines"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Barnsley",
+        "wesbite": "https://barnsley.camra.org.uk/",
+        "branch_id": "barnsley",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Bradford",
+        "wesbite": "https://bradfordcamra.org.uk",
+        "branch_id": "bradford",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Cleveland",
+        "wesbite": "https://cleveland.camra.org.uk/",
+        "branch_id": "cleveland",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Doncaster",
+        "wesbite": "https://doncastercamra.org.uk/",
+        "branch_id": "doncaster",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Halifax & Calderdale",
+        "wesbite": "https://hxcalderdalecamra.org.uk",
+        "branch_id": "halifax-calderdale",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Harrogate & Ripon",
+        "wesbite": "http://harrogateandriponcamra.org.uk",
+        "branch_id": "harrogate-ripon",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Heavy Woollen District",
+        "wesbite": "https://heavywoollen.camra.org.uk/",
+        "branch_id": "heavy-woollen-district",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Huddersfield & District",
+        "wesbite": "https://huddscamra.org.uk/",
+        "branch_id": "huddersfield-district",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Hull & East Yorkshire",
+        "wesbite": "https://hull.camra.org.uk/",
+        "branch_id": "hull-east-yorkshire",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Keighley & Craven",
+        "wesbite": "https://keighleyandcraven.camra.org.uk/",
+        "branch_id": "keighley-craven",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Leeds",
+        "wesbite": "https://leeds.camra.org.uk",
+        "branch_id": "leeds",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "North West Yorkshire",
+        "wesbite": "https://nwyorks.camra.org.uk/",
+        "branch_id": "north-west-yorkshire",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Rotherham",
+        "wesbite": "https://www.rotherhamcamra.org.uk/",
+        "branch_id": "rotherham",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Scarborough",
+        "wesbite": "https://scarborough.camra.org.uk/",
+        "branch_id": "scarborough",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Sheffield & District",
+        "wesbite": "https://sheffield.camra.org.uk/",
+        "branch_id": "sheffield-district",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Wakefield",
+        "wesbite": "https://wakefield.camra.org.uk/",
+        "branch_id": "wakefield",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "York",
+        "wesbite": "https://york.camra.org.uk/",
+        "branch_id": "york",
+        "region_id": "yorkshire"
+    },
+    {
+        "region": "Yorkshire",
+        "branch": "Yorkshire Wolds",
+        "branch_id": "yorkshire-wolds",
+        "region_id": "yorkshire"
+    }
+]

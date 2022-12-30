@@ -1,0 +1,28 @@
+{
+    "bolton": {
+        "oslaua": ["E08000001"]
+    },
+    "central-manchester": {
+        "osward": ["E05000697"]
+    },
+    "high-peak-tameside-north-east-cheshire": {
+        "oslaua": ["E07000037", "E08000008"]
+    },
+    "rochdale-oldham-bury": {
+        "oslaua": ["E08000005", "E08000004", "E08000002"]
+    },
+    "salford": {
+        "oslaua": ["E08000006"]
+    },
+    "southeast-lancashire": {},
+    "stockport-south-manchester": {
+        "oslaua": ["E08000007"]
+    },
+    "trafford-hulme": {
+        "oslaua": ["E08000009"],
+        "osward": ["E05011368"]
+    },
+    "wigan": {
+        "oslaua": ["E08000010"]
+    }
+}
