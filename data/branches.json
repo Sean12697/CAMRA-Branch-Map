@@ -550,7 +550,8 @@
         "branch": "Trafford & Hulme",
         "wesbite": "https://thcamra.org.uk/",
         "branch_id": "trafford-hulme",
-        "region_id": "greater-manchester"
+        "region_id": "greater-manchester",
+        "geojson_file": "geojson/branch-defined/Trafford_and_Hulme.geojson"
     },
     {
         "region": "Greater Manchester",

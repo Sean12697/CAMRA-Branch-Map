@@ -1,7 +1,6 @@
 const fs = require("fs");
 const fse = require('fs-extra');
 const branches = loadJsonSync("data/branches.json");
-const onspdMapping = loadJsonSync("data/onspd-mapping.json");
 let options = [];
 
 main();
@@ -10,6 +9,26 @@ function main() {
     if (!fs.existsSync("site")) fs.mkdirSync("site");
     if (!fs.existsSync("site/data")) fs.mkdirSync("site/data");
     fse.copySync("static", "site");
+
+    // Probably should write these more Functionally (not modifying global varibles)
+    addDefinedGeoJSON();
+    parseOnspdData();
+
+    fs.writeFileSync(`site/data.js`, `const data = ${JSON.stringify(options)}`);
+}
+
+function addDefinedGeoJSON() {
+    branches.forEach(branch => {
+        if (branch.geojson_file) {
+            let branchId = branch.branch_id;
+            fse.copySync(branch.geojson_file, createGeoJsonPath(branchId));
+            addBranchOption(branchId);
+        }
+    });
+}
+
+function parseOnspdData() {
+    let onspdMapping = loadJsonSync("data/onspd-mapping.json");
 
     Object.keys(onspdMapping).forEach(branchId => {
         let branchOnspdData = Object.keys(onspdMapping[branchId]);
@@ -23,19 +42,25 @@ function main() {
             });
 
             let branchData = mergeGeoJsonData(onspdIds);
-            fs.writeFileSync(`site/data/${branchId}.geojson`, JSON.stringify(branchData));
+            fs.writeFileSync(createGeoJsonPath(branchId), JSON.stringify(branchData));
             addBranchOption(branchId);
         }
     });
+}
 
-    fs.writeFileSync(`site/data.js`, `const data = ${JSON.stringify(options)}`);
+function createGeoJsonPath(name) {
+    return `site/${createSiteGeoJsonPath(name)}`;
+}
+
+function createSiteGeoJsonPath(name) {
+    return `data/${name}.geojson`;
 }
 
 function addBranchOption(branchId) {
     options.push({
         id: branchId,
         name: branches.find(branch => branch.branch_id == branchId).branch,
-        data: `data/${branchId}.geojson`
+        data: createSiteGeoJsonPath(branchId)
     });
 }
 
@@ -43,7 +68,7 @@ function mergeGeoJsonData(onspdIds) {
     let data = {"features": [], "type": "FeatureCollection" };
 
     onspdIds.forEach(onspdId => {
-        let onspdData = loadJsonSync(`geojson/${onspdId}.geojson`);
+        let onspdData = loadJsonSync(`geojson/onspd/${onspdId}.geojson`);
         data.features = data.features.concat(onspdData.features);
     });
 

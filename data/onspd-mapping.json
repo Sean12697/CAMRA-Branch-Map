@@ -18,10 +18,6 @@
     "stockport-south-manchester": {
         "oslaua": ["E08000007"]
     },
-    "trafford-hulme": {
-        "oslaua": ["E08000009"],
-        "osward": ["E05011368"]
-    },
     "wigan": {
         "oslaua": ["E08000010"]
     }
